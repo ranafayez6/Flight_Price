@@ -36,14 +36,6 @@ The analysis covers ticket prices, airlines, travel classes, routes, departure t
 - Leverage strong airline brands to avoid price competition.
 
 ---
-<img width="1338" height="868" alt="Screenshot 2026-02-05 225726" src="https://github.com/user-attachments/assets/7681e80e-7f7a-4fab-9e55-6545fbaf76af" />
-<img width="1318" height="845" alt="Screenshot 2026-02-05 225657" src="https://github.com/user-attachments/assets/edc299d3-92b7-4cb0-98a3-0d067cd2946c" />
-<img width="1309" height="840" alt="Screenshot 2026-02-05 225644" src="https://github.com/user-attachments/assets/d5371989-6a64-4bcd-b48d-187103a5bf21" />
-<img width="1323" height="861" alt="Screenshot 2026-02-05 225551" src="https://github.com/user-attachments/assets/274534f5-18cd-4f14-9cee-eb382473679d" />
-<img width="1338" height="855" alt="Screenshot 2026-02-05 225436" src="https://github.com/user-attachments/assets/e594630d-4157-47be-9c33-06e9463de062" />
-<img width="10" height="5" alt="Screenshot 2026-02-05 225421" src="https://github.com/user-attachments/assets/b37af426-0d3b-4fe3-b42b-741395e7f89f" />
-<img width="1317" height="849" alt="Screenshot 2026-02-05 225830" src="https://github.com/user-attachment[Uploading flight_price_prediction_df.csv…]()
-s/assets/1f10fee8-8533-4612-b0a0-d5d56a8a4508" />
 
 ---
 
@@ -51,6 +43,18 @@ s/assets/1f10fee8-8533-4612-b0a0-d5d56a8a4508" />
 The analysis demonstrates how data analytics can be used to translate raw flight data into actionable business insights that directly support revenue growth and pricing decisions.
 
 ---
+
+<img width="1338" height="868" alt="Screenshot 2026-02-05 225726" src="https://github.com/user-attachments/assets/cbb8bf6d-ce6c-4d66-8a81-d4298acedd24" />
+<img width="1318" height="845" alt="Screenshot 2026-02-05 225657" src="https://github.com/user-attachments/assets/cc37c9af-b815-4aa7-830a-01ab38a70e46" />
+<img width="1309" height="840" alt="Screenshot 2026-02-05 225644" src="https://github.com/user-attachments/assets/4dbf6d9c-e1d9-4d14-ba17-e41f2c9138a4" />
+<img width="1323" height="861" alt="Screenshot 2026-02-05 225551" src="https://github.com/user-attachments/assets/b1a38366-0eb4-4d4b-9217-3b130f73de12" />
+<img width="1338" height="855" alt="Screenshot 2026-02-05 225436" src="https://github.com/user-attachments/assets/5d0eb647-3219-43ed-8946-3c7128fc6d6e" />
+<img width="10" height="5" alt="Screenshot 2026-02-05 225421" src="https://github.com/user-attachments/assets/1c1ff720-db2b-4155-bca9-73503ba0ddb4" />
+<img width="1317" height="849" alt="Screenshot 2026-02-05 225830" src="https://github.com/user-attachments/assets/c79ed3c2-d360-4494-b846-2d5b030f091c" />
+
+<img width="1289" height="863" alt="Screenshot 2026-02-05 232948" src="https://github.com/user-attachments/assets/7df798ed-8fce-4e07-a129-cc5614baf364" />
+
+----
 
 ## 📬 Contact
 Rana Fayez  
