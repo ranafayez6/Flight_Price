@@ -54,7 +54,11 @@ The analysis demonstrates how data analytics can be used to translate raw flight
 
 <img width="1289" height="863" alt="Screenshot 2026-02-05 232948" src="https://github.com/user-attachments/assets/7df798ed-8fce-4e07-a129-cc5614baf364" />
 
-----
+---
 
+## 📈 Outcome
+The analysis demonstrates how data analytics can be used to translate raw flight data into actionable business insights that directly support revenue growth and pricing decisions.
+
+---
 ## 📬 Contact
 Rana Fayez  
